@@ -1,1 +1,1 @@
-<img src="images/output" alt="My Screenshot" width="300"/>
+<img src="reactfinal/iamges/output" alt="My Screenshot" width="300"/>
