@@ -1,0 +1,125 @@
+.main{
+  margin-left: 10%;
+  position: absolute;
+  top: 1%;
+  left: 1%;
+}
+.topline{
+  height: 1px;
+  width: 95%;
+  background-color: gray;
+  margin-top: 3%;
+  margin-left: 5%;
+}
+.head{
+  margin-top:3%;
+  margin-left: 5%;
+  font-size: 20px;
+}
+.drop1{
+  color: rgb(6, 81, 143);
+  margin-top: -2%;
+  margin-left: 60%;
+  font-size: 30px;
+
+}
+.drop2{
+  color: rgb(6, 81, 143);
+  margin-top: -3.5%;
+  margin-left: 75%;
+  font-size: 30px;
+
+}
+.drop3{
+  color: rgb(6, 81, 143);
+  margin-top: -3.5%;
+  margin-left: 87%;
+  font-size: 30px;
+}
+.navbar{
+  display: flex;
+  justify-content :space-around;
+  margin-top: 5%;
+}
+.line{
+  height: 1px;
+  width: 95%;
+  background-color: gray;
+  margin-top: 20px;
+  margin-left: 5%;
+}
+.ora{
+  color: orange;
+}
+.inputdrop{
+
+  color: darkblue;
+  margin-top: 3%;
+  margin-left: 4%;
+}
+.input1{
+    margin-top: -2.2%;
+  margin-left: 13%;
+
+}
+.inputdrop1{
+
+  color: darkblue;
+  margin-top: -2%;
+  margin-left: 25%;
+}
+.input2{
+    margin-top: -2.2%;
+  margin-left: 33%;
+
+}
+.menu{
+  height: 40px;
+  width: 60px;
+  border: none;
+  color: orange;
+  margin-top: -5%;
+  margin-left: -6%;
+}
+
+  
+
+.horizantal {
+  width: 1px;         
+  height: 1100px;       
+  background-color: gray;
+  margin-top: -30%;
+  margin-left: 3%; 
+}
+.four{
+  font-size: 25px;
+  margin-top: -40%;
+}
+.bell{
+  margin-top: -8.5%;
+  margin-left: 80%;
+}
+.down{
+   margin-top: -1%;
+   margin-left: 85%;
+}
+.orange
+{
+    margin-top : 15.5%;
+    margin-left: 65%;
+    color: orange;
+    font-size: 20px;
+}
+.filter{
+  margin-left: 73%;
+  margin-top: -2.5%;
+}
+.tools{
+  font-size: 25px;
+  margin-top: -6%;
+}
+.flex{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 7%;
+}
